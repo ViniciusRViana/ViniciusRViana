@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Vinicius
 
-- ✔ Estudante de Análise e desenvolvimento de sistemas
+- ✔ Formado em Análise e desenvolvimento de sistemas.
+- Cursando Sistemas de Informação.
 
  <div align="center">
   <a href="https://github.com/ViniciusRViana">
